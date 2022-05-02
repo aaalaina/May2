@@ -7,8 +7,6 @@ console.log(swim()); // prints "Today's exercise: swimming" */
 
 // function Exercise(a){
 
-//     // let exercizes = ["running, hiking, zumba, yoga, cycling, hiking"];
-
 //     console.log(`Todays' Exercise: ${a}`) };
 
 // console.log(Exercise('jogging'));
